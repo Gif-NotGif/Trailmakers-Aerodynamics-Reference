@@ -1,0 +1,523 @@
+﻿id,name,display_name,m_dragMultiplierForward,m_dragMultiplierBack,m_dragMultiplierUp,m_dragMultiplierDown,m_dragMultiplierRight,m_dragMultiplierLeft,m_streamliningSlopeNormal_x,m_streamliningSlopeNormal_y,m_streamliningSlopeNormal_z,m_liftMultiplier,m_exageratedLowAngleDrag,m_exageratedLowAngleDragPow,m_liftPow,m_normalLiftVelocity,m_sailLiftEffect
+298,PFB_XORLogicBlock,P F B X O R Logic Block,1,1,1,1,1,1,,,,0,0,,1,20,
+499,PFB_Wrench_Bumper,P F B Wrench Bumper,1,1,0.8,0.8,0.8,0.8,,,,0,0,,1,20,
+498,PFB_WoodBumper,P F B Wood Bumper,1,1,0.8,0.8,0.8,0.8,,,,0,0,,1,20,
+181,PFB_WingFlapSmall,P F B Wing Flap Small,0.3,0.3,0.3,0.3,0.3,0.3,,,,0,0,,1,20,
+180,PFB_WingFlap_AerodynamicsTweaks,P F B Wing Flap,0.1,0.1,2,2,0.15,0.15,0,0,0,0.215,5,0.25,0.5,18,0
+179,PFB_WingFlap,P F B Wing Flap,0.3,0.3,0.3,0.3,0.3,0.3,,,,0,0,,1,20,
+217,PFB_WingFin_Regular_AerodynamicsTweaks,P F B Wing Fin Regular,0.1,0.1,0.2,0.2,5,5,0,0,0,0,5,0.25,1,20,0
+216,PFB_WingFin_Regular,P F B Wing Fin Regular,0.1,0.1,0.2,0.2,2,2,,,,0,10,,1,20,
+215,PFB_WingFin_AerodynamicsTweaks,P F B Wing Fin,0.1,0.1,0.2,0.2,20,20,0,0,0,0,0,1,1,20,0
+214,PFB_WingFin,P F B Wing Fin,0.1,0.1,0.2,0.2,2,2,,,,0,10,,1,20,
+28,PFB_WindshieldBlock,P F B Windshield Block,1,1,1,1,1,1,,,,0,0,,1,20,
+497,PFB_Wind_Sock,P F B Wind Sock,1,1,1,1,1,1,,,,0,0,,1,20,
+496,PFB_Wind_Propeller,P F B Wind Propeller,1,1,1,1,1,1,,,,0,0,,1,20,
+517,PFB_WheelStandard_AerodynamicsTweaks,P F B Wheel Standard,0.3,0.3,0.3,0.3,0.8,0.8,0,0,0,0,0,1,1,20,0
+516,PFB_WheelStandard,P F B Wheel Standard,0.3,0.3,0.3,0.3,0.8,0.8,,,,0,0,,1,20,
+511,PFB_WheelSlick_AerodynamicsTweaks,P F B Wheel Slick,0.2,0.2,0.2,0.2,0.8,0.8,0,0,0,0,0,1,1,20,0
+510,PFB_WheelSlick,P F B Wheel Slick,0.2,0.2,0.2,0.2,0.8,0.8,,,,0,0,,1,20,
+135,PFB_WaterSki_AerodynamicsTweaks,P F B Water Ski,0.25,0.25,1,1,0.1,0.1,0,0,0,0,5,0.25,1,20,0
+521,PFB_WaterSki,P F B Water Ski,1,1,1,1,1,1,,,,0,0,,1,20,
+495,PFB_VolcanoTrophy-Ornament,P F B Volcano Trophy- Ornament,1,1,1,1,1,1,,,,0,0,,1,20,
+494,PFB_VikingTrophy-Ornament,P F B Viking Trophy- Ornament,1,1,1,1,1,1,,,,0,0,,1,20,
+213,PFB_VeteranStabilizer,P F B Veteran Stabilizer,0.3,0.3,0.3,0.3,0.3,0.3,,,,0,0,,1,20,
+371,PFB_VeteranFighterSeat,P F B Veteran Fighter Seat,0.2,0.2,0.8,1,1,1,,,,0,0,,1,20,
+370,PFB_UnderwaterSeat,P F B Underwater Seat,0.1,0.1,0.1,0.1,0.1,0.1,,,,0,0,,1,20,
+354,PFB_UnderWaterPropeller_AerodynamicsTweaks,P F B Under Water Propeller,0.5,0.5,0.5,0.5,0.5,0.5,0,0,0,0,0,1,1,20,0
+353,PFB_UnderWaterPropeller,P F B Under Water Propeller,0.5,0.5,0.5,0.5,0.5,0.5,,,,0,0,,1,20,
+165,PFB_Underwater_ProjectileWeapon,P F B Underwater Projectile Weapon,1,1,1,1,1,1,,,,0,0,,1,20,
+164,PFB_Underwater_ExplosiveWeapon,P F B Underwater Explosive Weapon,1,1,1,1,1,1,,,,0,0,,1,20,
+493,PFB_TubeThing,P F B Tube Thing,1,1,1,1,1,1,,,,0,0,,1,20,
+520,PFB_TruckWheel_AerodynamicsTweaks,P F B Truck Wheel,0.3,0.3,0.3,0.3,0.8,0.8,0,0,0,0,0,1,1,20,0
+519,PFB_TruckWheel,P F B Truck Wheel,0.3,0.3,0.3,0.3,0.8,0.8,,,,0,0,,1,20,
+491,PFB_Trophy_Silver,P F B Trophy Silver,1,1,1,1,1,1,,,,0,0,,1,20,
+490,PFB_Trophy_Platinum-1Gem,P F B Trophy Platinum-1 Gem,1,1,1,1,1,1,,,,0,0,,1,20,
+489,PFB_Trophy_Gold,P F B Trophy Gold,1,1,1,1,1,1,,,,0,0,,1,20,
+488,PFB_Trophy,P F B Trophy,1,1,1,1,1,1,,,,0,0,,1,20,
+487,PFB_TrailMachine,P F B Trail Machine,0.8,0.8,1,1,0.6,0.6,,,,0,0,,1,20,
+134,PFB_TopMountedLandingWheels_AerodynamicsTweaks,P F B Top Mounted Landing Wheels,0.3,0.3,0.5,0.5,0.8,0.8,0,0,0,0,0,1,1,20,0
+518,PFB_TopMountedLandingWheel,P F B Top Mounted Landing Wheel,0.25,0.25,0.25,0.25,0.8,0.8,,,,0,0,,1,20,
+485,PFB_ToneGenerator,P F B Tone Generator,1,1,1,1,1,1,,,,0,0,,1,20,
+133,PFB_TinyJet_AerodynamicsTweaks,P F B Tiny Jet,0.2,0.4,0.5,0.5,0.5,0.5,0,0,0,0,0,1,1,20,0
+484,PFB_TikkiTrophy-Ornament,P F B Tikki Trophy- Ornament,1,1,1,1,1,1,,,,0,0,,1,20,
+483,PFB_Teeth3,P F B Teeth3,1,1,1,1,1,1,,,,0,0,,1,20,
+482,PFB_Teeth2,P F B Teeth2,1,1,1,1,1,1,,,,0,0,,1,20,
+481,PFB_Teeth1,P F B Teeth1,1,1,1,1,1,1,,,,0,0,,1,20,
+163,PFB_TankCannonSmall,P F B Tank Cannon Small,1,1,1,1,1,1,,,,0,0,,1,20,
+132,PFB_TankCannon_AerodynamicsTweaks,P F B Tank Cannon,0.25,1,0.5,0.5,0.5,0.5,0,0,0,0,0,1,1,20,0
+162,PFB_TankCannon,P F B Tank Cannon,1,1,1,1,1,1,,,,0,0,,1,20,
+454,PFB_T-Logo_Ornament,P F B T- Logo Ornament,1,1,1,1,1,1,,,,0,0,,1,20,
+325,PFB_SuspensionStraight_AerodynamicsTweaks,P F B Suspension Straight,0.3,0.3,1,1,0.3,0.3,0,0,0,0,0,1,1,20,0
+324,PFB_Suspension_AerodynamicsTweaks,P F B Suspension,0.3,0.3,0.3,0.3,0.3,0.3,0,0,0,0,0,1,1,20,0
+323,PFB_Suspension,P F B Suspension,0.3,0.3,0.3,0.3,0.3,0.3,,,,0,0,,1,20,
+480,PFB_SubZeroTrophy-Ornament,P F B Sub Zero Trophy- Ornament,1,1,1,1,1,1,,,,0,0,,1,20,
+479,PFB_Stop_Sign,P F B Stop Sign,1,1,0.8,0.8,0.8,0.8,,,,0,0,,1,20,
+266,PFB_SquareWeight_AerodynamicsTweaks,P F B Square Weight,1,1,1,1,1,1,0,0,0,0,0,1,1,20,0
+265,PFB_SquareWeight,P F B Square Weight,1,1,1,1,1,1,,,,0,0,,1,20,
+92,PFB_Spoiler_AerodynamicsTweaks,P F B Spoiler,0.2,0.2,1,1,0.75,0.75,0,0,0,-0.25,0,1,1,20,0
+91,PFB_Spoiler,P F B Spoiler,0.2,0.2,1.2,1.2,0.75,0.75,,,,-0.25,0,,1,20,
+322,PFB_SpinningJoint_AerodynamicsTweaks,P F B Spinning Joint,1,1,1,1,1,1,0,0,0,0,0,1,1,20,0
+321,PFB_SpinningJoint,P F B Spinning Joint,1,1,1,1,1,1,,,,0,0,,1,20,
+478,PFB_Spikes,P F B Spikes,0.6,0.6,0.6,0.6,1,1,,,,0,0,,1,20,
+515,PFB_SpikedWheel_AerodynamicsTweaks,P F B Spiked Wheel,0.3,0.3,0.3,0.3,0.8,0.8,0,0,0,0,0,1,1,20,0
+514,PFB_SpikedWheel,P F B Spiked Wheel,0.3,0.3,0.3,0.3,0.8,0.8,,,,0,0,,1,20,
+297,PFB_SpeedSensorBlock,P F B Speed Sensor Block,1,1,1,1,1,1,,,,0,0,,1,20,
+352,PFB_SpaceThruster,P F B Space Thruster,0.3,1,1,1,1,1,,,,0,0,,1,20,
+369,PFB_SpaceShipSeat,P F B Space Ship Seat,1,1,1,1,1,1,,,,0,0,,1,20,
+472,PFB_SpaceGreeble2x2x1,P F B Space Greeble2x2x1,0.5,0.5,0.2,0.8,0.5,0.5,,,,0,0,,1,20,
+471,PFB_SpaceGreeble_2x1x1,P F B Space Greeble 2x1x1,0.2,1,0.2,1,0.7,0.7,,,,0,0,,1,20,
+368,PFB_SpaceFighterSeat,P F B Space Fighter Seat,0.2,0.2,0.8,1,1,1,,,,0,0,,1,20,
+161,PFB_SpaceBlaster,P F B Space Blaster,1,1,1,1,1,1,,,,0,0,,1,20,
+212,PFB_SmallTailFin_Regular_AerodynamicsTweaks,P F B Small Tail Fin Regular,0.1,0.1,0.2,0.2,5,5,0,0,0,0,5,0.25,1,20,0
+211,PFB_SmallTailFin_Regular,P F B Small Tail Fin Regular,0.1,0.1,0.2,0.2,2,2,,,,0,10,,1,20,
+210,PFB_SmallTailFin_AerodynamicsTweaks,P F B Small Tail Fin,0.1,0.1,0.2,0.2,10,10,0,0,0,0,0,1,1,20,0
+209,PFB_SmallTailFin,P F B Small Tail Fin,0.1,0.1,0.2,0.2,2,2,,,,0,10,,1,20,
+320,PFB_SmallHinge_AerodynamicsTweaks,P F B Small Hinge,0.3,0.3,0.3,0.3,0.3,0.3,0,0,0,0,0,1,1,20,0
+319,PFB_SmallHinge,P F B Small Hinge,0.3,0.3,0.3,0.3,0.3,0.3,,,,0,0,,1,20,
+160,PFB_SmallEnergyShield,P F B Small Energy Shield,1,1,1,1,1,1,,,,0,0,,1,20,
+208,PFB_SmallBalloon,P F B Small Balloon,1,1,1,1,1,1,,,,0,0,,1,20,
+80,PFB_Small_Wedge_2x1x2_AerodynamicsTweaks,P F B Small Wedge 2x1x2,0.1,1,0.3,1,0.7,0.7,0,2,1,0,0,1,1,20,0
+79,PFB_Small_Wedge_2x1x2,P F B Small Wedge 2x1x2,0.1,1,0.1,1,0.75,0.75,,,,0,0,,1,20,
+70,PFB_Small_Wedge_1x1x2_AerodynamicsTweaks,P F B Small Wedge 1x1x2,0.15,1,0.25,1,0.7,0.7,0,2,1,0,0,1,1,20,0
+69,PFB_Small_Wedge_1x1x2,P F B Small Wedge 1x1x2,0.15,1,0.25,1,0.7,0.7,,,,0,0,,1,20,
+513,PFB_SlimWheel_AerodynamicsTweaks,P F B Slim Wheel,0.2,0.2,0.2,0.2,0.8,0.8,0,0,0,0,0,1,1,20,0
+512,PFB_SlimWheel,P F B Slim Wheel,0.2,0.2,0.2,0.2,0.8,0.8,,,,0,0,,1,20,
+467,PFB_SkullBlock,P F B Skull Block,1,1,1,1,1,1,,,,0,0,,1,20,
+470,PFB_Skull_3,P F B Skull 3,1,1,1,1,1,1,,,,0,0,,1,20,
+469,PFB_Skull_2,P F B Skull 2,1,1,1,1,1,1,,,,0,0,,1,20,
+468,PFB_Skull_1,P F B Skull 1,1,1,1,1,1,1,,,,0,0,,1,20,
+466,PFB_Siren,P F B Siren,1,1,1,1,1,1,,,,0,0,,1,20,
+465,PFB_SingingParrot,P F B Singing Parrot,1,1,1,1,1,1,,,,0,0,,1,20,
+464,PFB_SideMirror3,P F B Side Mirror3,1,1,1,1,1,1,,,,0,0,,1,20,
+463,PFB_SideMirror2,P F B Side Mirror2,1,1,1,1,1,1,,,,0,0,,1,20,
+462,PFB_SideMirror,P F B Side Mirror,1,1,1,1,1,1,,,,0,0,,1,20,
+159,PFB_Shotgun,P F B Shotgun,1,1,1,1,1,1,,,,0,0,,1,20,
+158,PFB_ShortRangeSpray,P F B Short Range Spray,1,1,1,1,1,1,,,,0,0,,1,20,
+157,PFB_ShortRangeEMPBlaster,P F B Short Range E M P Blaster,1,1,1,1,1,1,,,,0,0,,1,20,
+131,PFB_ShieldPlate_AerodynamicsTweaks,P F B Shield Plate,0.2,0.2,1,1,0.2,0.2,0,0,0,0,0,1,1,20,0
+156,PFB_ShieldPlate_4x2,P F B Shield Plate 4x2,0.2,0.2,1,1,0.2,0.2,,,,0,0,,1,20,
+155,PFB_ShieldPlate_2x2,P F B Shield Plate 2x2,0.2,0.2,1,1,0.2,0.2,,,,0,0,,1,20,
+154,PFB_ShieldPlate_2x1,P F B Shield Plate 2x1,0.2,0.2,1,1,0.2,0.2,,,,0,0,,1,20,
+130,PFB_SeatUnderwater_AerodynamicsTweaks,P F B Seat Underwater,0.3,0.3,0.3,0.3,0.3,0.3,0,0,0,0,0,1,1,20,0
+129,PFB_SeatSpace_AerodynamicsTweaks,P F B Seat Space,0.25,1,0.25,0.25,0.25,0.25,0,0,0,0,0,1,1,20,0
+128,PFB_SeatNormal_AerodynamicsTweaks,P F B Seat Normal,0.3,0.6,0.6,1,0.6,0.6,0,0,0,0,0,1,1,20,0
+127,PFB_SeatCrowsNest_AerodynamicsTweaks,P F B Seat Crows Nest,0.3,0.3,1,1,0.3,0.3,0,0,0,0,0,1,1,20,0
+486,PFB_Sconce,P F B Sconce,0.8,0.8,1,1,0.8,0.8,,,,0,0,,1,20,
+207,PFB_SailModularTriangle1x9x6_AerodynamicsTweaks,P F B Sail Modular Triangle1x9x6,2,2,0.2,0.2,0.2,0.2,0,0,0,0,5,0.25,1.501,20,0.507
+206,PFB_SailModularTriangle1x9x6,P F B Sail Modular Triangle1x9x6,0.2,0.2,1.2,1.2,0.2,0.2,,,,0.125,10,,1,20,
+205,PFB_SailModularTriangle1x24x9_AerodynamicsTweaks,P F B Sail Modular Triangle1x24x9,2,2,0.2,0.2,0.2,0.2,0,0,0,0,5,0.25,1.501,20,0.507
+204,PFB_SailModularTriangle1x24x9,P F B Sail Modular Triangle1x24x9,0.2,0.2,1.2,1.2,0.2,0.2,,,,0.125,10,,1,20,
+203,PFB_SailModularTriangle1x12x9_AerodynamicsTweaks,P F B Sail Modular Triangle1x12x9,2,2,0.2,0.2,0.2,0.2,0,0,0,0,5,0.25,1.501,20,0.507
+202,PFB_SailModularTriangle1x12x9,P F B Sail Modular Triangle1x12x9,0.2,0.2,1.2,1.2,0.2,0.2,,,,0.125,10,,1,20,
+201,PFB_SailModular1x9x6_AerodynamicsTweaks,P F B Sail Modular1x9x6,2,2,0.2,0.2,0.2,0.2,0,0,0,0,5,0.25,1.501,20,0.507
+200,PFB_SailModular1x9x6,P F B Sail Modular1x9x6,0.2,0.2,1.2,1.2,0.2,0.2,,,,0.125,10,,1,20,
+199,PFB_SailModular1x12x9_AerodynamicsTweaks,P F B Sail Modular1x12x9,2,2,0.2,0.2,0.2,0.2,0,0,0,0,5,0.25,1.501,20,0.507
+198,PFB_SailModular1x12x9,P F B Sail Modular1x12x9,0.2,0.2,1.2,1.2,0.2,0.2,,,,0.125,10,,1,20,
+5,PFB_RudderSeat_AerodynamicsTweaks,P F B Rudder Seat,1,1,1,1,1,1,0,0,0,0,0,1,1,20,0
+367,PFB_RudderSeat,P F B Rudder Seat,1,1,1,1,1,1,,,,0,0,,1,20,
+461,PFB_RubberSharkFin,P F B Rubber Shark Fin,0.2,0.2,0.5,0.5,1,1,,,,0,0,,1,20,
+27,PFB_RoundedWedge,P F B Rounded Wedge,0.2,1,0.6,0.6,1,0.2,,,,0,0,,1,20,
+26,PFB_RoundedCornerWedge_4x2x2,P F B Rounded Corner Wedge 4x2x2,0.2,1,0.6,0.6,1,0.2,,,,0,0,,1,20,
+25,PFB_RoundedCornerWedge_3x2x2,P F B Rounded Corner Wedge 3x2x2,0.2,1,0.6,0.6,1,0.2,,,,0,0,,1,20,
+24,PFB_RoundedCornerWedge_2x2x2,P F B Rounded Corner Wedge 2x2x2,0.2,1,0.6,0.6,1,0.2,,,,0,0,,1,20,
+318,PFB_RotatingServo_AerodynamicsTweaks,P F B Rotating Servo,1,1,1,1,1,1,0,0,0,0,0,1,1,20,0
+317,PFB_RotatingServo,P F B Rotating Servo,1,1,1,1,1,1,,,,0,0,,1,20,
+460,PFB_RoofRack,P F B Roof Rack,1,1,1,1,1,1,,,,0,0,,1,20,
+153,PFB_RocketLauncher_AerodynamicsTweaks,P F B Rocket Launcher,0.25,0.25,0.5,0.5,0.5,0.5,0,0,0,0,5,0.25,0.5,18,0
+152,PFB_RocketLauncher,P F B Rocket Launcher,1,1,1,1,1,1,,,,0,0,,1,20,
+351,PFB_RocketEngine,P F B Rocket Engine,0.3,1,1,1,1,1,,,,0,0,,1,20,
+296,PFB_RNGLogicBlock,P F B R N G Logic Block,1,1,1,1,1,1,,,,0,0,,1,20,
+459,PFB_Rim3,P F B Rim3,0.5,0.5,0.5,0.5,1,1,,,,0,0,,1,20,
+458,PFB_Ribcage_Pipes,P F B Ribcage Pipes,1,1,0.8,0.8,0.8,0.8,,,,0,0,,1,20,
+4,PFB_ReeferSeat_AerodynamicsTweaks,P F B Reefer Seat,0.4,1,1,1,1,1,0,0,0,0,0,1,1,20,0
+366,PFB_ReeferSeat,P F B Reefer Seat,0.4,1,1,1,1,1,,,,0,0,,1,20,
+457,PFB_RainbowMachine,P F B Rainbow Machine,1,1,0.8,0.8,0.8,0.8,,,,0,0,,1,20,
+424,PFB_PumpkinLight,P F B Pumpkin Light,1,1,1,1,1,1,,,,0,0,,1,20,
+151,PFB_PulseMiner_Tier3,P F B Pulse Miner Tier3,1,1,1,1,1,1,,,,0,0,,1,20,
+150,PFB_PulseMiner_Large,P F B Pulse Miner Large,1,1,1,1,1,1,,,,0,0,,1,20,
+126,PFB_PropellerBlock_AerodynamicsTweaks,P F B Propeller Block,1,1,0.7,0.7,0.7,0.7,0,0,0,0,0,1,1,20,0
+350,PFB_PropellerBlock,P F B Propeller Block,0.5,0.5,0.5,0.5,0.5,0.5,,,,0,0,,1,20,
+316,PFB_PowerConduitConnector,P F B Power Conduit Connector,0.7,0.7,1,1,0.7,0.7,,,,0,0,,1,20,
+264,PFB_Porthole4x4_AerodynamicsTweaks,P F B Porthole4x4,1,1,1,1,1,1,0,0,0,0,0,1,1,20,0
+263,PFB_Porthole4x4,P F B Porthole4x4,1,1,1,1,1,1,,,,0,0,,1,20,
+262,PFB_Porthole2x2x1,P F B Porthole2x2x1,1,1,1,1,1,1,,,,0,0,,1,20,
+23,PFB_PopupHeadlightBlock,P F B Popup Headlight Block,1,1,1,1,1,1,,,,0,0,,1,20,
+261,PFB_Plastic_Floater_8x4,P F B Plastic Floater 8x4,0.6,0.6,1,1,1,1,,,,0,0,,1,20,
+260,PFB_Plastic_Floater_2x1,P F B Plastic Floater 2x1,0.6,0.6,1,1,1,1,,,,0,0,,1,20,
+259,PFB_Plastic_Floater,P F B Plastic Floater,0.6,0.6,1,1,1,1,,,,0,0,,1,20,
+315,PFB_Piston_AerodynamicsTweaks,P F B Piston,0.7,0.7,1,1,0.7,0.7,0,0,0,0,0,1,1,20,0
+314,PFB_Piston,P F B Piston,0.7,0.7,1,1,0.7,0.7,,,,0,0,,1,20,
+456,PFB_PioneersTrophy,P F B Pioneers Trophy,1,1,1,1,1,1,,,,0,0,,1,20,
+455,PFB_PeriScope,P F B Peri Scope,1,1,1,1,1,1,,,,0,0,,1,20,
+255,PFB_PanelSquare_6x6x2,P F B Panel Square 6x6x2,1,1,1,1,1,1,,,,0,0,,1,20,
+254,PFB_PanelSmooth_6x6x2,P F B Panel Smooth 6x6x2,1,1,1,1,1,1,,,,0,0,,1,20,
+253,PFB_PanelRounded_6x6x2,P F B Panel Rounded 6x6x2,1,1,1,1,1,1,,,,0,0,,1,20,
+393,PFB_PanelLineEnd,P F B Panel Line End,1,1,1,1,1,1,,,,0,0,,1,20,
+392,PFB_PanelLine,P F B Panel Line,1,1,1,1,1,1,,,,0,0,,1,20,
+197,PFB_PaddleBlock4x4_AerodynamicsTweaks,P F B Paddle Block4x4,0.2,0.2,4,4,0.2,0.2,0,0,0,0,2,0.701,1,20,0
+196,PFB_PaddleBlock4x4,P F B Paddle Block4x4,0.2,0.2,2,2,0.2,0.2,,,,0,10,,1,20,
+195,PFB_PaddleBlock_AerodynamicsTweaks,P F B Paddle Block,0.2,0.2,2,2,0.2,0.2,0,0,0,0,2,0.701,1,20,0
+194,PFB_PaddleBlock,P F B Paddle Block,0.2,0.2,2,2,0.2,0.2,,,,0,10,,1,20,
+295,PFB_OrLogicBlock,P F B Or Logic Block,1,1,1,1,1,1,,,,0,0,,1,20,
+125,PFB_Old_Cannon_AerodynamicsTweaks,P F B Old Cannon,0.2,0.2,0.2,1,0.2,0.2,0,0,0,0,0,1,1,20,0
+193,PFB_OarBlock_AerodynamicsTweaks,P F B Oar Block,0.2,0.4,2,2,0.2,0.2,0,0,0,0,2,0.701,1,20,0
+192,PFB_OarBlock,P F B Oar Block,0.2,0.2,2,2,0.2,0.2,,,,0,10,,1,20,
+294,PFB_NotLogicBlock,P F B Not Logic Block,1,1,1,1,1,1,,,,0,0,,1,20,
+453,PFB_Neon_Light_Under_Car_Blue,P F B Neon Light Under Car Blue,0.6,0.6,1,1,0.6,0.6,,,,0,0,,1,20,
+452,PFB_Mustache,P F B Mustache,1,1,0.6,0.6,0.6,0.6,,,,0,0,,1,20,
+509,PFB_MotorCycleWheel_AerodynamicsTweaks,P F B Motor Cycle Wheel,0.2,0.2,0.2,0.2,0.8,0.8,0,0,0,0,0,1,1,20,0
+508,PFB_MotorCycleWheel,P F B Motor Cycle Wheel,0.2,0.2,0.2,0.2,0.8,0.8,,,,0,0,,1,20,
+22,PFB_MotorbikeSeat,P F B Motorbike Seat,0.35,1,1,1,1,1,,,,0,0,,1,20,
+507,PFB_MonsterTruckWheelBlock_AerodynamicsTweaks,P F B Monster Truck Wheel Block,0.4,0.4,0.4,0.4,0.8,0.8,0,0,0,0,0,1,1,20,0
+506,PFB_MonsterTruckWheelBlock,P F B Monster Truck Wheel Block,0.4,0.4,0.4,0.4,0.8,0.8,,,,0,0,,1,20,
+191,PFB_ModularWingSmall_AerodynamicsTweaks,P F B Modular Wing Small,0.1,0.1,2,2,0.15,0.15,0,0,0,0.215,5,0.25,0.5,18,0
+190,PFB_ModularWingSmall,P F B Modular Wing Small,0.1,0.1,2,2,0.15,0.15,,,,0.175,10,,1,20,
+189,PFB_ModularWing_AerodynamicsTweaks,P F B Modular Wing,0.1,0.1,2,2,0.15,0.15,0,0,0,0.215,5,0.25,0.5,18,0
+188,PFB_ModularWing,P F B Modular Wing,0.1,0.1,2,2,0.15,0.15,,,,0.175,10,,1,20,
+123,PFB_ModularTubeSystem_TubeTeeCross_AerodynamicsTweaks,P F B Modular Tube System Tube Tee Cross,1,1,1,1,1,1,0,0,0,0,0,1,1,20,0
+451,PFB_ModularTubeSystem_TubeTeeCross,P F B Modular Tube System Tube Tee Cross,1,1,1,1,1,1,,,,0,0,,1,20,
+124,PFB_ModularTubeSystem_TubeTee_AerodynamicsTweaks,P F B Modular Tube System Tube Tee,1,1,1,1,1,1,0,0,0,0,0,1,1,20,0
+450,PFB_ModularTubeSystem_TubeTee,P F B Modular Tube System Tube Tee,1,1,1,1,1,1,,,,0,0,,1,20,
+122,PFB_ModularTubeSystem_TubeElbow_AerodynamicsTweaks,P F B Modular Tube System Tube Elbow,1,1,1,1,1,1,0,0,0,0,0,1,1,20,0
+449,PFB_ModularTubeSystem_TubeElbow,P F B Modular Tube System Tube Elbow,1,1,1,1,1,1,,,,0,0,,1,20,
+121,PFB_ModularTubeSystem_TubeDoubleTee_AerodynamicsTweaks,P F B Modular Tube System Tube Double Tee,1,1,1,1,1,1,0,0,0,0,0,1,1,20,0
+448,PFB_ModularTubeSystem_TubeDoubleTee,P F B Modular Tube System Tube Double Tee,1,1,1,1,1,1,,,,0,0,,1,20,
+120,PFB_ModularTubeSystem_TubeDoubleElbow_AerodynamicsTweaks,P F B Modular Tube System Tube Double Elbow,1,1,1,1,1,1,0,0,0,0,0,1,1,20,0
+447,PFB_ModularTubeSystem_TubeDoubleElbow,P F B Modular Tube System Tube Double Elbow,1,1,1,1,1,1,,,,0,0,,1,20,
+119,PFB_ModularTubeSystem_TubeCross_AerodynamicsTweaks,P F B Modular Tube System Tube Cross,1,1,1,1,1,1,0,0,0,0,0,1,1,20,0
+446,PFB_ModularTubeSystem_TubeCross,P F B Modular Tube System Tube Cross,1,1,1,1,1,1,,,,0,0,,1,20,
+118,PFB_ModularTubeSystem_Tube3x1_AerodynamicsTweaks,P F B Modular Tube System Tube3x1,0.5,0.5,0.7,0.7,0.5,0.5,0,0,0,0,0,1,1,20,0
+445,PFB_ModularTubeSystem_Tube3x1,P F B Modular Tube System Tube3x1,0.5,0.5,0.7,0.7,0.5,0.5,,,,0,0,,1,20,
+117,PFB_ModularTubeSystem_Tube1x4_AerodynamicsTweaks,P F B Modular Tube System Tube1x4,0.5,0.5,0.7,0.7,0.5,0.5,0,0,0,0,0,1,1,20,0
+444,PFB_ModularTubeSystem_Tube1x4,P F B Modular Tube System Tube1x4,0.5,0.5,0.7,0.7,0.5,0.5,,,,0,0,,1,20,
+115,PFB_ModularTubeSystem_Tube1x1x8_AerodynamicsTweaks,P F B Modular Tube System Tube1x1x8,0.5,0.5,0.7,0.7,0.5,0.5,0,0,0,0,0,1,1,20,0
+443,PFB_ModularTubeSystem_Tube1x1x8,P F B Modular Tube System Tube1x1x8,0.5,0.5,0.7,0.7,0.5,0.5,,,,0,0,,1,20,
+116,PFB_ModularTubeSystem_Tube1x1_AerodynamicsTweaks,P F B Modular Tube System Tube1x1,0.5,0.5,0.7,0.7,0.5,0.5,0,0,0,0,0,1,1,20,0
+442,PFB_ModularTubeSystem_Tube1x1,P F B Modular Tube System Tube1x1,0.5,0.5,0.7,0.7,0.5,0.5,,,,0,0,,1,20,
+114,PFB_ModularTubeSystem_Skewed2x1x2_AerodynamicsTweaks,P F B Modular Tube System Skewed2x1x2,0.5,0.5,0.7,0.7,0.5,0.5,0,0,0,0,0,1,1,20,0
+441,PFB_ModularTubeSystem_Skewed2x1x2,P F B Modular Tube System Skewed2x1x2,0.5,0.5,0.7,0.7,0.5,0.5,,,,0,0,,1,20,
+113,PFB_ModularTubeSystem_Skewed1x1x2_AerodynamicsTweaks,P F B Modular Tube System Skewed1x1x2,0.5,0.5,0.7,0.7,0.5,0.5,0,0,0,0,0,1,1,20,0
+440,PFB_ModularTubeSystem_Skewed1x1x2,P F B Modular Tube System Skewed1x1x2,0.5,0.5,0.7,0.7,0.5,0.5,,,,0,0,,1,20,
+112,PFB_ModularTubeSystem_DoubleCross_AerodynamicsTweaks,P F B Modular Tube System Double Cross,1,1,1,1,1,1,0,0,0,0,0,1,1,20,0
+439,PFB_ModularTubeSystem_DoubleCross,P F B Modular Tube System Double Cross,1,1,1,1,1,1,,,,0,0,,1,20,
+187,PFB_ModernStabilizer,P F B Modern Stabilizer,0.3,0.3,0.3,0.3,0.3,0.3,,,,0,0,,1,20,
+19,PFB_ModernHood,P F B Modern Hood,0.2,1,0.2,1,0.7,0.7,,,,0,0,,1,20,
+438,PFB_MixelEye_Sphere,P F B Mixel Eye Sphere,1,1,1,1,1,1,,,,0,0,,1,20,
+437,PFB_MixelEye_Circle,P F B Mixel Eye Circle,1,1,1,1,1,1,,,,0,0,,1,20,
+149,PFB_MiningLaserSmall,P F B Mining Laser Small,1,1,1,1,1,1,,,,0,0,,1,20,
+111,PFB_MiniGun_AerodynamicsTweaks,P F B Mini Gun,0.2,0.2,0.2,1,0.2,0.2,0,0,0,0,0,1,1,20,0
+148,PFB_MiniGun,P F B Mini Gun,1,1,1,1,1,1,,,,0,0,,1,20,
+147,PFB_MiniGrenadeLauncher,P F B Mini Grenade Launcher,1,1,1,1,1,1,,,,0,0,,1,20,
+280,PFB_MilitaryHeadlights,P F B Military Headlights,1,1,1,1,1,1,,,,0,0,,1,20,
+436,PFB_Metal_Barrel_Hood,P F B Metal Barrel Hood,1,1,1,1,1,1,,,,0,0,,1,20,
+364,PFB_MechSeat_AerodynamicsTweaks,P F B Mech Seat,1,1,1,1,1,1,0,0,0,0,0,1,1,20,0
+363,PFB_MechSeat,P F B Mech Seat,1,1,1,1,1,1,,,,0,0,,1,20,
+252,PFB_MastBlock_AerodynamicsTweaks,P F B Mast Block,0.7,0.7,1,1,0.7,0.7,0,0,0,0,0,1,1,20,0
+251,PFB_MastBlock,P F B Mast Block,0.5,0.5,0.5,0.5,0.5,0.5,,,,0,0,,1,20,
+374,PFB_MagnetBlock_S,P F B Magnet Block S,1,1,1,1,1,1,,,,0,0,,1,20,
+435,PFB_Mad_Science_Block,P F B Mad Science Block,1,1,0.8,0.8,0.8,0.8,,,,0,0,,1,20,
+18,PFB_LongHood,P F B Long Hood,0.2,1,0.2,1,0.7,0.7,,,,0,0,,1,20,
+279,PFB_LightFront_V2_AerodynamicsTweaks,P F B Light Front V2,0.5,0.5,0.2,0.2,0.2,0.2,0,0,0,0,0,1,1,1,0
+278,PFB_LightFront_AerodynamicsTweaks,P F B Light Front,0.5,0.5,0.5,0.5,0.5,0.5,0,0,0,0,0,1,1,1,0
+277,PFB_LightFront,P F B Light Front,1,1,1,1,1,1,,,,0,0,,1,20,
+276,PFB_LightBack_V2_AerodynamicsTweaks,P F B Light Back V2,0.5,0.5,0.2,0.2,0.2,0.2,0,0,0,0,0,1,1,1,0
+275,PFB_LightBack_V2,P F B Light Back V2,1,1,1,1,1,1,,,,0,0,,1,20,
+274,PFB_LightBack_AerodynamicsTweaks,P F B Light Back,0.5,0.5,0.5,0.5,0.5,0.5,0,0,0,0,0,1,1,1,0
+273,PFB_LightBack,P F B Light Back,1,1,1,1,1,1,,,,0,0,,1,20,
+250,PFB_LatticeBlockSmall,P F B Lattice Block Small,0.5,0.5,0.5,0.5,0.5,0.5,,,,0,0,,1,20,
+249,PFB_LatticeBlock,P F B Lattice Block,0.5,0.5,0.5,0.5,0.5,0.5,,,,0,0,,1,20,
+21,PFB_LargeSportCarSpoiler,P F B Large Sport Car Spoiler,0.2,0.2,1.2,1.2,0.75,0.75,,,,-0.25,0,,1,20,
+110,PFB_LargePropeller_AerodynamicsTweaks,P F B Large Propeller,0.5,0.5,0.5,0.5,0.5,0.5,0,0,0,0,0,1,1,20,0
+349,PFB_LargePropeller,P F B Large Propeller,0.5,0.5,0.5,0.5,0.5,0.5,,,,0,0,,1,20,
+186,PFB_LargePlaneTail_AerodynamicsTweaks,P F B Large Plane Tail,0.15,0.15,0.75,0.75,2,2,0,0,0,0,5,0.25,1,20,0
+185,PFB_LargePlaneTail,P F B Large Plane Tail,0.3,0.3,0.3,0.3,0.3,0.3,,,,0,0,,1,20,
+20,PFB_LargeExhaust,P F B Large Exhaust,0.6,0.6,0.6,0.6,0.6,0.6,,,,0,0,,1,20,
+362,PFB_LargeCockpit,P F B Large Cockpit,0.2,0.2,0.8,1,1,1,,,,0,0,,1,20,
+8,PFB_LargeBracketBlock,P F B Large Bracket Block,1,1,1,1,1,1,,,,0,0,,1,20,
+272,PFB_Lantern_AerodynamicsTweaks 1,P F B Lantern Aerodynamics Tweaks 1,0.5,0.5,0.5,0.5,0.5,0.5,0,0,0,0,0,1,1,1,0
+271,PFB_Lantern,P F B Lantern,1,1,1,1,1,1,,,,0,0,,1,20,
+434,PFB_Ladder,P F B Ladder,1,1,1,1,1,1,,,,0,0,,1,20,
+385,PFB_LabFlask,P F B Lab Flask,1,1,1,1,1,1,,,,0,0,,1,20,
+248,PFB_KeelBlock,P F B Keel Block,1,1,1,1,1,1,,,,0,0,,1,20,
+109,PFB_Keel_AerodynamicsTweaks,P F B Keel,0.5,0.5,0.9,0.7,0.9,0.9,0,0,0,0,0,1,1,20,0
+348,PFB_JetTiny,P F B Jet Tiny,0.5,0.5,1,1,1,1,,,,0,0,,1,20,
+347,PFB_JetGimbal_AerodynamicsTweaks,P F B Jet Gimbal,1,1,1,1,1,1,0,0,0,0,0,1,1,20,0
+346,PFB_JetGimbal,P F B Jet Gimbal,1,1,1,1,1,1,,,,0,0,,1,20,
+107,PFB_JetEngineNinja_AerodynamicsTweaks,P F B Jet Engine Ninja,0.3,1,1,1,1,1,0,0,0,0,0,1,1,20,0
+345,PFB_JetEngineNinja,P F B Jet Engine Ninja,0.3,1,1,1,1,1,,,,0,0,,1,20,
+344,PFB_JetEngineMini_AerodynamicsTweaks,P F B Jet Engine Mini,0.5,0.5,1,1,1,1,0,0,0,0,0,1,1,20,0
+343,PFB_JetEngineMini,P F B Jet Engine Mini,0.5,0.5,1,1,1,1,,,,0,0,,1,20,
+106,PFB_JetEngineLarge_AerodynamicsTweaks,P F B Jet Engine Large,0.3,1,1,1,1,1,0,0,0,0,0,1,1,20,0
+342,PFB_JetEngineLarge,P F B Jet Engine Large,0.3,1,1,1,1,1,,,,0,0,,1,20,
+108,PFB_JetEngine_AerodynamicsTweaks,P F B Jet Engine,0.3,1,1,1,1,1,0,0,0,0,0,1,1,20,0
+341,PFB_JetEngine,P F B Jet Engine,0.3,1,1,1,1,1,,,,0,0,,1,20,
+246,PFB_JerryCan_3x2x1,P F B Jerry Can 3x2x1,1,1,1,1,1,1,,,,0,0,,1,20,
+3,PFB_InputSeat_AerodynamicsTweaks,P F B Input Seat,0.5,1,1,1,1,1,0,0,0,0,0,1,1,20,0
+361,PFB_InputSeat,P F B Input Seat,0.5,1,1,1,1,1,,,,0,0,,1,20,
+340,PFB_InertialRedirector,P F B Inertial Redirector,1,1,1,1,1,1,,,,0,0,,1,20,
+245,PFB_HullBlockStraight,P F B Hull Block Straight,1,1,1,1,1,1,,,,0,0,,1,20,
+244,PFB_HullBlockMiddle,P F B Hull Block Middle,1,1,1,1,1,1,,,,0,0,,1,20,
+242,PFB_HullBlockCorner,P F B Hull Block Corner,1,1,1,1,1,1,,,,0,0,,1,20,
+243,PFB_HullBlock_AerodynamicsTweaks,P F B Hull Block,1,1,1,1,1,1,0,0,0,0,0,1,1,20,0
+339,PFB_HugePropellerEngine,P F B Huge Propeller Engine,0.5,0.5,0.5,0.5,0.5,0.5,,,,0,0,,1,20,
+105,PFB_HoveringBlock_AerodynamicsTweaks,P F B Hovering Block,1,1,1,1,1,1,0,0,0,0,0,1,1,20,0
+338,PFB_HoveringBlock,P F B Hovering Block,1,1,1,1,1,1,,,,0,0,,1,20,
+433,PFB_Horn2,P F B Horn2,1,1,1,1,1,1,,,,0,0,,1,20,
+432,PFB_Horn,P F B Horn,1,1,1,1,1,1,,,,0,0,,1,20,
+431,PFB_HoodPipes,P F B Hood Pipes,1,1,0.8,0.8,0.8,0.8,,,,0,0,,1,20,
+425,PFB_Hood_Ornaments_Horns,P F B Hood Ornaments Horns,1,1,1,1,1,1,,,,0,0,,1,20,
+430,PFB_Hood_Ornament_11,P F B Hood Ornament 11,1,1,1,1,1,1,,,,0,0,,1,20,
+429,PFB_Hood_ornament_06,P F B Hood ornament 06,0.5,0.8,1,1,0.3,0.3,,,,0,0,,1,20,
+428,PFB_Hood_Ornament_04,P F B Hood Ornament 04,1,1,1,1,1,1,,,,0,0,,1,20,
+427,PFB_Hood_Ornament_02,P F B Hood Ornament 02,1,1,1,1,1,1,,,,0,0,,1,20,
+426,PFB_Hood_ornament_01,P F B Hood ornament 01,1,1,1,1,1,1,,,,0,0,,1,20,
+313,PFB_HingeLarge_AerodynamicsTweaks,P F B Hinge Large,0.7,0.7,0.7,0.7,1,1,0,0,0,0,0,1,1,20,0
+312,PFB_HingeLarge,P F B Hinge Large,0.7,0.7,0.7,0.7,1,1,,,,0,0,,1,20,
+505,PFB_HighFrictionStub,P F B High Friction Stub,0.5,0.5,0.7,0.7,0.5,0.5,,,,0,0,,1,20,
+337,PFB_HeliRotatorv2_AerodynamicsTweaks,P F B Heli Rotatorv2,1,1,1,1,1,1,0,0,0,0,0,1,1,20,0
+336,PFB_HeliRotatorv2,P F B Heli Rotatorv2,1,1,1,1,1,1,,,,0,0,,1,20,
+311,PFB_HeliRotator_AerodynamicsTweaks,P F B Heli Rotator,1,1,1,1,1,1,0,0,0,0,0,1,1,20,0
+310,PFB_HeliRotator,P F B Heli Rotator,1,1,1,1,1,1,,,,0,0,,1,20,
+335,PFB_HelicopterTailPropeller,P F B Helicopter Tail Propeller,0.5,0.5,0.5,0.5,0.5,0.5,,,,0,0,,1,20,
+184,PFB_HelicopterBladeShort,P F B Helicopter Blade Short,0.2,0.2,1.2,1.2,0.2,0.2,,,,0.2,0,,1,20,
+183,PFB_HelicopterbladeLong,P F B Helicopterblade Long,0.2,0.2,1.2,1.2,0.2,0.2,,,,0.2,0,,1,20,
+104,PFB_Helicopterblade_AerodynamicsTweaks,P F B Helicopterblade,0.2,0.2,1.2,1.2,0.2,0.2,0,0,0,0.2,0,1,1,20,0
+182,PFB_Helicopterblade,P F B Helicopterblade,0.2,0.2,1.2,1.2,0.2,0.2,,,,0.2,0,,1,20,
+17,PFB_HaloDrivingSeat,P F B Halo Driving Seat,0.2,0.2,0.8,1,1,1,,,,0,0,,1,20,
+334,PFB_GyroStabilizer,P F B Gyro Stabilizer,1,1,1,1,1,1,,,,0,0,,1,20,
+333,PFB_GyroActuator,P F B Gyro Actuator,1,1,1,1,1,1,,,,0,0,,1,20,
+146,PFB_GunpowderCannon,P F B Gunpowder Cannon,1,1,1,1,1,1,,,,0,0,,1,20,
+241,PFB_GridBlockSmall,P F B Grid Block Small,0.5,0.5,0.5,0.5,0.5,0.5,,,,0,0,,1,20,
+240,PFB_Gridblock_AerodynamicsTweaks,P F B Gridblock,0.5,0.5,0.5,0.5,0.5,0.5,0,0,0,0,0,1,1,20,0
+239,PFB_Gridblock,P F B Gridblock,0.5,0.5,0.5,0.5,0.5,0.5,,,,0,0,,1,20,
+473,PFB_Greeble2x4x1,P F B Greeble2x4x1,1,1,1,1,1,1,,,,0,0,,1,20,
+293,PFB_GravitySensorBlock,P F B Gravity Sensor Block,1,1,1,1,1,1,,,,0,0,,1,20,
+423,PFB_Gramophone,P F B Gramophone,1,1,1,1,1,1,,,,0,0,,1,20,
+422,PFB_GoldenScarab,P F B Golden Scarab,1,1,1,1,1,1,,,,0,0,,1,20,
+2,PFB_GokartSeat_AerodynamicsTweaks,P F B Gokart Seat,0.8,1,1,1,1,1,0,0,0,0,0,1,1,20,0
+360,PFB_GokartSeat,P F B Gokart Seat,0.8,1,1,1,1,1,,,,0,0,,1,20,
+504,PFB_GocartWheel_AerodynamicsTweaks,P F B Gocart Wheel,0.25,0.25,0.25,0.25,0.8,0.8,0,0,0,0,0,1,1,20,0
+503,PFB_GocartWheel,P F B Gocart Wheel,0.25,0.25,0.25,0.25,0.8,0.8,,,,0,0,,1,20,
+421,PFB_GhettoBlaster2,P F B Ghetto Blaster2,1,1,1,1,1,1,,,,0,0,,1,20,
+420,PFB_GhettoBlaster,P F B Ghetto Blaster,1,1,1,1,1,1,,,,0,0,,1,20,
+292,PFB_FunctionsLogicBlock,P F B Functions Logic Block,1,1,1,1,1,1,,,,0,0,,1,20,
+238,PFB_FuelTank_4x3x2,P F B Fuel Tank 4x3x2,1,1,1,1,1,1,,,,0,0,,1,20,
+419,PFB_FrontGrill2x2x1,P F B Front Grill2x2x1,1,1,0.8,0.8,0.8,0.8,,,,0,0,,1,20,
+418,PFB_FrontGrill03,P F B Front Grill03,0.5,0.5,0.5,0.5,0.5,0.5,,,,0,0,,1,20,
+417,PFB_FrontGrill02,P F B Front Grill02,1,1,0.6,0.6,0.6,0.6,,,,0,0,,1,20,
+416,PFB_FrontGrill01,P F B Front Grill01,1,1,0.6,0.6,0.6,0.6,,,,0,0,,1,20,
+359,PFB_Froggit_PassengerSeat,P F B Froggit Passenger Seat,1,1,1,1,1,1,,,,0,0,,1,20,
+103,PFB_FrictionStub_AerodynamicsTweaks,P F B Friction Stub,0.2,0.2,1,1,0.2,0.2,0,0,0,0,0,1,1,20,0
+309,PFB_FreeTrailerHinge_AerodynamicsTweaks,P F B Free Trailer Hinge,1,1,0.7,0.7,0.7,0.7,0,0,0,0,0,1,1,20,0
+308,PFB_FreeTrailerHinge,P F B Free Trailer Hinge,1,1,0.7,0.7,0.7,0.7,,,,0,0,,1,20,
+232,PFB_Frame4x8,P F B Frame4x8,1,1,1,1,1,1,,,,0,0,,1,20,
+231,PFB_Frame2x4,P F B Frame2x4,1,1,1,1,1,1,,,,0,0,,1,20,
+230,PFB_Frame1x4,P F B Frame1x4,1,1,1,1,1,1,,,,0,0,,1,20,
+229,PFB_Frame1x2,P F B Frame1x2,1,1,1,1,1,1,,,,0,0,,1,20,
+102,PFB_Frame_AerodynamicsTweaks,P F B Frame,1,1,1,1,1,1,0,0,0,0,0,1,1,20,0
+237,PFB_Frame_6x2x1,P F B Frame 6x2x1,1,1,1,1,1,1,,,,0,0,,1,20,
+236,PFB_Frame_4x4x1,P F B Frame 4x4x1,1,1,1,1,1,1,,,,0,0,,1,20,
+365,PFB_Frame_2x2x2_PassengerSeat,P F B Frame 2x2x2 Passenger Seat,1,1,1,1,1,1,,,,0,0,,1,20,
+235,PFB_Frame_2x2x2,P F B Frame 2x2x2,1,1,1,1,1,1,,,,0,0,,1,20,
+234,PFB_Frame_2x2x1,P F B Frame 2x2x1,1,1,1,1,1,1,,,,0,0,,1,20,
+233,PFB_Frame_1x1x3,P F B Frame 1x1x3,1,1,1,1,1,1,,,,0,0,,1,20,
+15,PFB_FormulaRearWingBlock,P F B Formula Rear Wing Block,0.2,0.2,1.2,1.2,0.75,0.75,,,,-0.25,0,,1,20,
+16,PFB_FormulaFrontWingBlock,P F B Formula Front Wing Block,0.2,0.2,1.2,1.2,0.75,0.75,,,,-0.25,0,,1,20,
+415,PFB_Flat_Connectors1X4,P F B Flat Connectors1 X4,1,1,1,1,1,1,,,,0,0,,1,20,
+414,PFB_Flat_Connectors1X3,P F B Flat Connectors1 X3,1,1,1,1,1,1,,,,0,0,,1,20,
+413,PFB_Flat_Connectors1X2,P F B Flat Connectors1 X2,1,1,1,1,1,1,,,,0,0,,1,20,
+412,PFB_FlareBlock,P F B Flare Block,1,1,1,1,1,1,,,,0,0,,1,20,
+145,PFB_FlakCannon_Small,P F B Flak Cannon Small,1,1,1,1,1,1,,,,0,0,,1,20,
+144,PFB_FlakCannon_Large,P F B Flak Cannon Large,1,1,1,1,1,1,,,,0,0,,1,20,
+411,PFB_FlagPirate,P F B Flag Pirate,0.6,0.6,0.6,0.6,0.6,0.6,,,,0,0,,1,20,
+410,PFB_Flag9,P F B Flag9,0.6,0.6,0.6,0.6,0.6,0.6,,,,0,0,,1,20,
+409,PFB_Flag8,P F B Flag8,0.6,0.6,0.6,0.6,0.6,0.6,,,,0,0,,1,20,
+408,PFB_Flag7,P F B Flag7,0.6,0.6,0.6,0.6,0.6,0.6,,,,0,0,,1,20,
+407,PFB_Flag6,P F B Flag6,0.6,0.6,0.6,0.6,0.6,0.6,,,,0,0,,1,20,
+406,PFB_Flag5,P F B Flag5,0.6,0.6,0.6,0.6,0.6,0.6,,,,0,0,,1,20,
+405,PFB_Flag4,P F B Flag4,0.6,0.6,0.6,0.6,0.6,0.6,,,,0,0,,1,20,
+404,PFB_Flag3,P F B Flag3,0.6,0.6,0.6,0.6,0.6,0.6,,,,0,0,,1,20,
+403,PFB_Flag2,P F B Flag2,0.6,0.6,0.6,0.6,0.6,0.6,,,,0,0,,1,20,
+402,PFB_Flag10,P F B Flag10,0.6,0.6,0.6,0.6,0.6,0.6,,,,0,0,,1,20,
+401,PFB_Flag1,P F B Flag1,0.6,0.6,0.6,0.6,0.6,0.6,,,,0,0,,1,20,
+400,PFB_FireworkBlock,P F B Firework Block,1,1,1,1,1,1,,,,0,0,,1,20,
+178,PFB_Fin01_Regular_AerodynamicsTweaks,P F B Fin01 Regular,0.1,0.1,0.2,0.2,5,5,0,0,0,0,5,0.25,1,20,0
+177,PFB_Fin01_AerodynamicsTweaks,P F B Fin01,0.1,0.1,0.2,0.2,20,20,0,0,0,0,0,1,1,20,0
+176,PFB_Fin01,P F B Fin01,0.1,0.1,0.2,0.2,2,2,,,,0,10,,1,20,
+14,PFB_Figurine_Chirpo,P F B Figurine Chirpo,1,1,1,1,1,1,,,,0,0,,1,20,
+13,PFB_Figurine_Character,P F B Figurine Character,1,1,1,1,1,1,,,,0,0,,1,20,
+12,PFB_FenderBlock_Small,P F B Fender Block Small,1,1,1,1,1,1,,,,0,0,,1,20,
+11,PFB_FenderBlock_Medium,P F B Fender Block Medium,1,1,1,1,1,1,,,,0,0,,1,20,
+10,PFB_FenderBlock_Large,P F B Fender Block Large,1,1,1,1,1,1,,,,0,0,,1,20,
+399,PFB_Exhaust4,P F B Exhaust4,0.7,0.7,0.6,0.6,0.7,0.7,,,,0,0,,1,20,
+398,PFB_Exhaust3,P F B Exhaust3,0.6,0.8,0.8,0.8,1,1,,,,0,0,,1,20,
+397,PFB_Exhaust2,P F B Exhaust2,0.6,0.6,0.6,0.6,0.6,0.6,,,,0,0,,1,20,
+396,PFB_Exhaust1,P F B Exhaust1,0.8,0.8,1,1,0.8,0.8,,,,0,0,,1,20,
+332,PFB_EngineOlSchool_AerodynamicsTweaks,P F B Engine Ol School,1,1,1,1,1,0.5,0,0,0,0,0,1,1,20,0
+331,PFB_EngineOlSchool,P F B Engine Ol School,1,1,1,1,1,0.5,,,,0,0,,1,20,
+330,PFB_EngineNinja,P F B Engine Ninja,1,1,1,1,1,1,,,,0,0,,1,20,
+329,PFB_EngineBasic_AerodynamicsTweaks,P F B Engine Basic,1,1,1,1,1,1,0,0,0,0,0,1,1,20,0
+328,PFB_EngineBasic,P F B Engine Basic,1,1,1,1,1,1,,,,0,0,,1,20,
+1,PFB_EnergyShield_AerodynamicsTweaks,P F B Energy Shield,1,1,1,1,1,1,0,0,0,0,0,1,1,20,0
+143,PFB_EnergyShield,P F B Energy Shield,1,1,1,1,1,1,,,,0,0,,1,20,
+142,PFB_EMPBlaster,P F B E M P Blaster,1,1,1,1,1,1,,,,0,0,,1,20,
+270,PFB_EmergencyLight_AerodynamicsTweaks,P F B Emergency Light,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0
+269,PFB_EmergencyLight,P F B Emergency Light,1,1,1,1,1,1,,,,0,0,,1,20,
+175,PFB_ElevatorTailFinSmall,P F B Elevator Tail Fin Small,0.3,0.3,0.3,0.3,0.3,0.3,,,,0,0,,1,20,
+174,PFB_ElevatorTailFin_AerodynamicsTweaks,P F B Elevator Tail Fin,0.1,0.1,5,5,0.5,0.5,0,0,0,0,5,0.25,0.5,18,0
+173,PFB_ElevatorTailFin,P F B Elevator Tail Fin,0.3,0.3,0.3,0.3,0.3,0.3,,,,0,0,,1,20,
+172,PFB_ElevatorTail_AerodynamicsTweaks,P F B Elevator Tail,0.1,0.1,5,5,0.2,0.2,0,0,0,0,5,0.25,0.5,18,0
+171,PFB_ElevatorTail,P F B Elevator Tail,0.3,0.3,0.3,0.3,0.3,0.3,,,,0,0,,1,20,
+141,PFB_Dynamite,P F B Dynamite,1,1,1,1,1,1,,,,0,0,,1,20,
+502,PFB_DragRacingWheel_AerodynamicsTweaks,P F B Drag Racing Wheel,0.25,0.25,0.25,0.25,0.8,0.8,0,0,0,0,0,1,1,20,0
+501,PFB_DragRacingWheel,P F B Drag Racing Wheel,0.25,0.25,0.25,0.25,0.8,0.8,,,,0,0,,1,20,
+291,PFB_DistanceSensorBlock,P F B Distance Sensor Block,1,1,1,1,1,1,,,,0,0,,1,20,
+290,PFB_DisplayLogicBlock,P F B Display Logic Block,1,1,1,1,1,1,,,,0,0,,1,20,
+305,PFB_Dispenser-ConcreteWalls,P F B Dispenser- Concrete Walls,1,1,1,1,1,1,,,,0,0,,1,20,
+304,PFB_Dispenser_Snowball,P F B Dispenser Snowball,1,1,1,1,1,1,,,,0,0,,1,20,
+307,PFB_Dispenser_MetalCrates,P F B Dispenser Metal Crates,1,1,1,1,1,1,,,,0,0,,1,20,
+301,PFB_Dispenser_LandMine,P F B Dispenser Land Mine,1,1,1,1,1,1,,,,0,0,,1,20,
+306,PFB_Dispenser_Dice,P F B Dispenser Dice,1,1,1,1,1,1,,,,0,0,,1,20,
+303,PFB_Dispenser_BeachBalls,P F B Dispenser Beach Balls,1,1,1,1,1,1,,,,0,0,,1,20,
+302,PFB_Dispenser_AerodynamicsTweaks,P F B Dispenser,1,1,1,1,1,1,0,0,0,0,0,1,1,20,0
+101,PFB_DinghySide_AerodynamicsTweaks,P F B Dinghy Side,0.8,0.6,0.6,0.8,1,1,0,0,0,0,0,1,1,20,0
+228,PFB_DinghySide,P F B Dinghy Side,1,1,1,1,1,1,,,,0,0,,1,20,
+100,PFB_DinghyCorner_AerodynamicsTweaks,P F B Dinghy Corner,0.8,0.6,0.8,0.8,0.6,0.8,0,0,0,0,0,1,1,20,0
+227,PFB_DinghyCorner,P F B Dinghy Corner,1,1,1,1,1,1,,,,0,0,,1,20,
+300,PFB_DetachableBlock,P F B Detachable Block,1,1,1,1,1,1,,,,0,0,,1,20,
+226,PFB_CylinderWeight_AerodynamicsTweaks,P F B Cylinder Weight,0.5,0.5,1,1,0.5,0.5,0,0,0,0,0,1,1,20,0
+225,PFB_CylinderWeight,P F B Cylinder Weight,0.5,0.5,1,1,0.5,0.5,,,,0,0,,1,20,
+395,PFB_CustomHubCap_3x3,P F B Custom Hub Cap 3x3,0.2,0.2,1,1,0.2,0.2,,,,0,0,,1,20,
+358,PFB_CrowsNestSeat,P F B Crows Nest Seat,1,1,1,1,1,1,,,,0,0,,1,20,
+289,PFB_CompassSensorBlock,P F B Compass Sensor Block,1,1,1,1,1,1,,,,0,0,,1,20,
+288,PFB_ComparisonLogicBlock,P F B Comparison Logic Block,1,1,1,1,1,1,,,,0,0,,1,20,
+394,PFB_Coffee_Mug,P F B Coffee Mug,1,1,1,1,1,1,,,,0,0,,1,20,
+0,PFB_CockpitSeat_AerodynamicsTweaks,P F B Cockpit Seat,0.2,0.2,0.8,1,1,1,0,0,0,0,0,1,1,20,0
+357,PFB_CockpitSeat,P F B Cockpit Seat,0.2,0.2,0.8,1,1,1,,,,0,0,,1,20,
+99,PFB_CockpitLarge_AerodynamicsTweaks,P F B Cockpit Large,0.3,0.9,0.7,1,0.6,0.6,0,0,0,0,0,1,1,20,0
+268,PFB_CityHeadlights,P F B City Headlights,1,1,1,1,1,1,,,,0,0,,1,20,
+391,PFB_ChromeBumperEnd,P F B Chrome Bumper End,1,1,1,1,1,1,,,,0,0,,1,20,
+390,PFB_ChromeBumperDecorated,P F B Chrome Bumper Decorated,1,1,1,1,1,1,,,,0,0,,1,20,
+389,PFB_ChromeBumper,P F B Chrome Bumper,1,1,1,1,1,1,,,,0,0,,1,20,
+492,PFB_ChirpoTrophy,P F B Chirpo Trophy,1,1,1,1,1,1,,,,0,0,,1,20,
+388,PFB_ChickenDinnerSign,P F B Chicken Dinner Sign,1,1,0.6,0.6,0.6,0.6,,,,0,0,,1,20,
+500,PFB_CarWheel_3x3x1,P F B Car Wheel 3x3x1,0.2,0.2,0.2,0.2,0.8,0.8,,,,0,0,,1,20,
+9,PFB_CarSeat,P F B Car Seat,0.5,1,1,1,1,1,,,,0,0,,1,20,
+140,PFB_CannonTiny,P F B Cannon Tiny,1,1,1,1,1,1,,,,0,0,,1,20,
+139,PFB_CannonSmartBall,P F B Cannon Smart Ball,1,1,1,1,1,1,,,,0,0,,1,20,
+97,PFB_CannonSmall_AerodynamicsTweaks,P F B Cannon Small,0.2,0.2,0.2,1,0.2,0.2,0,0,0,0,0,1,1,20,0
+138,PFB_CannonSmall,P F B Cannon Small,1,1,1,1,1,1,,,,0,0,,1,20,
+98,PFB_Cannon_AerodynamicsTweaks,P F B Cannon,0.2,0.2,0.2,1,0.2,0.2,0,0,0,0,0,1,1,20,0
+137,PFB_Cannon,P F B Cannon,1,1,1,1,1,1,,,,0,0,,1,20,
+373,PFB_CameraBlock,P F B Camera Block,1,1,1,1,1,1,,,,0,0,,1,20,
+287,PFB_CameraAimingSensorBlock,P F B Camera Aiming Sensor Block,1,1,1,1,1,1,,,,0,0,,1,20,
+327,PFB_BulldawgBoatEngineBlock_AerodynamicsTweaks,P F B Bulldawg Boat Engine Block,0.5,0.5,0.5,0.5,0.5,0.5,0,0,0,0,0,1,1,20,0
+326,PFB_BulldawgBoatEngineBlock,P F B Bulldawg Boat Engine Block,0.5,0.5,0.5,0.5,0.5,0.5,,,,0,0,,1,20,
+387,PFB_BubbleMaker,P F B Bubble Maker,1,1,1,1,1,1,,,,0,0,,1,20,
+7,PFB_BracketBlock,P F B Bracket Block,1,1,1,1,1,1,,,,0,0,,1,20,
+247,PFB_BowBlock,P F B Bow Block,1,1,1,1,1,1,,,,0,0,,1,20,
+96,PFB_Bow_AerodynamicsTweaks,P F B Bow,0.25,0.5,0.9,0.7,0.9,0.9,0,0,0,0,0,1,1,20,0
+258,PFB_BouyancyBlock_SquareAerodynamicsTweaks 1,P F B Bouyancy Block Square Aerodynamics Tweaks 1,1,1,1,1,1,1,0,0,0,0,0,1,1,20,0
+257,PFB_BouyancyBlock_RoundedAerodynamicsTweaks,P F B Bouyancy Block Rounded Aerodynamics Tweaks,0.6,0.6,0.6,0.6,0.6,0.6,0,0,0,0,0,1,1,20,0
+256,PFB_BouyancyBlock,P F B Bouyancy Block,0.6,0.6,1,1,1,1,,,,0,0,,1,20,
+386,PFB_Bottle,P F B Bottle,1,1,1,1,1,1,,,,0,0,,1,20,
+384,PFB_Bonnet3,P F B Bonnet3,0.3,0.3,1,1,0.3,0.3,,,,0,0,,1,20,
+383,PFB_Bonnet,P F B Bonnet,0.5,0.8,1,1,0.3,0.3,,,,0,0,,1,20,
+382,PFB_Bonfire,P F B Bonfire,0.8,0.8,1,1,0.8,0.8,,,,0,0,,1,20,
+95,PFB_BombRack_AerodynamicsTweaks,P F B Bomb Rack,0.4,0.5,1,0.9,0.7,0.7,0,0,0,0,0,1,1,20,0
+136,PFB_BombRack,P F B Bomb Rack,1,1,1,1,1,1,,,,0,0,,1,20,
+381,PFB_Black_Antlers,P F B Black Antlers,1,1,1,1,1,1,,,,0,0,,1,20,
+356,PFB_BikeSeat,P F B Bike Seat,0.35,1,1,1,1,1,,,,0,0,,1,20,
+380,PFB_Bell,P F B Bell,1,1,1,1,1,1,,,,0,0,,1,20,
+94,PFB_Balloon_AerodynamicsTweaks,P F B Balloon,0.75,0.75,0.75,0.75,0.75,0.75,0,0,0,0,0,1,1,20,0
+267,PFB_BajaLEDs,P F B Baja L E Ds,1,1,1,1,1,1,,,,0,0,,1,20,
+355,PFB_ArmouredSeat,P F B Armoured Seat,0.5,1,1,1,1,1,,,,0,0,,1,20,
+286,PFB_ArithmeticLogicBlock,P F B Arithmetic Logic Block,1,1,1,1,1,1,,,,0,0,,1,20,
+477,PFB_Antenna_04_2x3x2,P F B Antenna 04 2x3x2,0.1,1,0.3,1,0.7,0.7,,,,0,0,,1,20,
+476,PFB_Antenna_03_2x2x2,P F B Antenna 03 2x2x2,0.1,1,0.3,1,0.7,0.7,,,,0,0,,1,20,
+475,PFB_Antenna_02_2x5x2,P F B Antenna 02 2x5x2,0.1,1,0.3,1,0.7,0.7,,,,0,0,,1,20,
+474,PFB_Antenna_01_3x1x3,P F B Antenna 01 3x1x3,0.1,1,0.3,1,0.7,0.7,,,,0,0,,1,20,
+285,PFB_AngleSensorBlock,P F B Angle Sensor Block,1,1,1,1,1,1,,,,0,0,,1,20,
+284,PFB_AndLogicBlock,P F B And Logic Block,1,1,1,1,1,1,,,,0,0,,1,20,
+93,PFB_AnchorBlock_AerodynamicsTweaks,P F B Anchor Block,1,1,1,1,1,1,0,0,0,0,0,1,1,20,0
+372,PFB_AnchorBlock,P F B Anchor Block,1,1,1,1,1,1,,,,0,0,,1,20,
+283,PFB_AltitudeSensorBlock,P F B Altitude Sensor Block,1,1,1,1,1,1,,,,0,0,,1,20,
+222,PFB_AirplaneWindow,P F B Airplane Window,1,1,1,1,1,1,,,,0,0,,1,20,
+379,PFB_AirIntake3,P F B Air Intake3,1,0.3,1,1,0.7,0.7,,,,0,0,,1,20,
+378,PFB_AirIntake2,P F B Air Intake2,1,1,1,1,1,1,,,,0,0,,1,20,
+377,PFB_AirIntake1,P F B Air Intake1,1,0.6,0.8,0.8,0.7,0.7,,,,0,0,,1,20,
+221,PFB_AirIntake_Rounded,P F B Air Intake Rounded,1,0.3,1,1,0.7,0.7,,,,0,0,,1,20,
+220,PFB_AirIntake_Propeller,P F B Air Intake Propeller,1,0.3,1,1,0.7,0.7,,,,0,0,,1,20,
+219,PFB_AirIntake_Fighter,P F B Air Intake Fighter,1,0.3,1,1,0.7,0.7,,,,0,0,,1,20,
+218,PFB_AirIntake_Bulky,P F B Air Intake Bulky,1,0.3,1,1,0.7,0.7,,,,0,0,,1,20,
+170,PFB_AirBalloon,P F B Air Balloon,1,1,1,1,1,1,,,,0,0,,1,20,
+299,PFB_AimingServo,P F B Aiming Servo,1,1,1,1,1,1,,,,0,0,,1,20,
+169,PFB_AileronSmalll_AerodynamicsTweaks,P F B Aileron Smalll,0.1,0.1,5,5,0.1,0.1,0,0,0,0,5,0.25,1,20,0
+168,PFB_AileronSmall,P F B Aileron Small,0.3,0.3,0.3,0.3,0.3,0.3,,,,0,0,,1,20,
+167,PFB_Aileron_AerodynamicsTweaks,P F B Aileron,0.1,0.1,5,5,0.1,0.1,0,0,0,0,5,0.25,1,20,0
+166,PFB_Aileron,P F B Aileron,0.3,0.3,0.3,0.3,0.3,0.3,,,,0,0,,1,20,
+282,PFB_AggregateLogicBlock,P F B Aggregate Logic Block,1,1,1,1,1,1,,,,0,0,,1,20,
+78,PFB_AeroDynamic_WedgeSide_2x1x1_AerodynamicsTweaks,P F B Aero Dynamic Wedge Side 2x1x1,0.2,1,0.2,1,0.7,0.7,0,1,1,0,0,1,1,20,0
+77,PFB_AeroDynamic_WedgeSide_2x1x1,P F B Aero Dynamic Wedge Side 2x1x1,0.2,1,0.2,1,0.7,0.7,,,,0,0,,1,20,
+68,PFB_Aerodynamic_WedgeCorner_4x1x4_AerodynamicsTweaks,P F B Aerodynamic Wedge Corner 4x1x4,0.1,1,0.3,1,1,0.1,-1,4,1,0,0,1,1,20,0
+67,PFB_Aerodynamic_WedgeCorner_4x1x4,P F B Aerodynamic Wedge Corner 4x1x4,0.05,1,0.3,1,0.7,0.7,,,,0,0,,1,20,
+66,PFB_Aerodynamic_WedgeCorner_3x1x3_AerodynamicsTweaks,P F B Aerodynamic Wedge Corner 3x1x3,1,0.1,0.3,1,1,0.1,-1,3,-1,0,0,1,1,20,0
+65,PFB_Aerodynamic_WedgeCorner_3x1x3,P F B Aerodynamic Wedge Corner 3x1x3,0.1,1,0.3,1,0.7,0.7,,,,0,0,,1,20,
+64,PFB_Aerodynamic_WedgeCorner_2x2x2_AerodynamicsTweaks,P F B Aerodynamic Wedge Corner 2x2x2,0.2,1,0.2,1,0.2,1,1,1,1,0,0,1,1,20,0
+63,PFB_Aerodynamic_WedgeCorner_2x2x2,P F B Aerodynamic Wedge Corner 2x2x2,0.15,1,0.15,1,0.75,0.75,,,,0,0,,1,20,
+62,PFB_Aerodynamic_WedgeCorner_2x1x2_AerodynamicsTweaks,P F B Aerodynamic Wedge Corner 2x1x2,0.1,1,0.3,1,1,0.1,-1,2,1,0,0,1,1,20,0
+61,PFB_Aerodynamic_WedgeCorner_2x1x2,P F B Aerodynamic Wedge Corner 2x1x2,0.1,1,0.1,1,0.75,0.75,,,,0,0,,1,20,
+60,PFB_Aerodynamic_WedgeBlock3_4x4x1,P F B Aerodynamic Wedge Block3 4x4x1,0.05,1,0.3,1,0.7,0.7,,,,0,0,,1,20,
+59,PFB_Aerodynamic_WedgeBlock2_4x4x2,P F B Aerodynamic Wedge Block2 4x4x2,0.05,1,0.3,1,0.7,0.7,,,,0,0,,1,20,
+58,PFB_Aerodynamic_WedgeBlock1_4x4x2,P F B Aerodynamic Wedge Block1 4x4x2,0.05,1,0.3,1,0.7,0.7,,,,0,0,,1,20,
+90,PFB_AeroDynamic_Wedge_4x2x2_AerodynamicsTweaks,P F B Aero Dynamic Wedge 4x2x2,0.2,1,0.2,1,0.7,0.7,0,1,1,0,0,1,1,20,0
+89,PFB_AeroDynamic_Wedge_4x2x2,P F B Aero Dynamic Wedge 4x2x2,0.2,1,0.2,1,0.7,0.7,,,,0,0,,1,20,
+88,PFB_AeroDynamic_Wedge_4x1x4_AerodynamicsTweaks,P F B Aero Dynamic Wedge 4x1x4,0.05,1,0.3,1,0.7,0.7,0,4,1,0,0,1,1,20,0
+87,PFB_AeroDynamic_Wedge_4x1x4,P F B Aero Dynamic Wedge 4x1x4,0.05,1,0.3,1,0.7,0.7,,,,0,0,,1,20,
+86,PFB_AeroDynamic_Wedge_4x1x3_AerodynamicsTweaks,P F B Aero Dynamic Wedge 4x1x3,0.1,1,0.3,1,0.7,0.7,0,3,1,0,0,1,1,20,0
+85,PFB_AeroDynamic_Wedge_4x1x3,P F B Aero Dynamic Wedge 4x1x3,0.1,1,0.3,1,0.7,0.7,,,,0,0,,1,20,
+84,PFB_AeroDynamic_Wedge_4x1x2_AerodynamicsTweaks,P F B Aero Dynamic Wedge 4x1x2,0.15,1,0.25,1,0.7,0.7,0,2,1,0,0,1,1,20,0
+83,PFB_AeroDynamic_Wedge_4x1x2,P F B Aero Dynamic Wedge 4x1x2,0.15,1,0.25,1,0.7,0.7,,,,0,0,,1,20,
+82,PFB_AeroDynamic_Wedge_2x2x2_AerodynamicsTweaks,P F B Aero Dynamic Wedge 2x2x2,0.15,1,0.15,1,0.75,0.75,0,1,1,0,0,1,1,20,0
+81,PFB_AeroDynamic_Wedge_2x2x2,P F B Aero Dynamic Wedge 2x2x2,0.15,1,0.15,1,0.75,0.75,,,,0,0,,1,20,
+76,PFB_AeroDynamic_Wedge_1x2x2_AerodynamicsTweaks,P F B Aero Dynamic Wedge 1x2x2,0.2,1,0.2,1,0.7,0.7,0,1,1,0,0,1,1,20,0
+75,PFB_AeroDynamic_Wedge_1x2x2,P F B Aero Dynamic Wedge 1x2x2,0.2,1,0.2,1,0.7,0.7,,,,0,0,,1,20,
+74,PFB_AeroDynamic_Wedge_1x1x4_AerodynamicsTweaks,P F B Aero Dynamic Wedge 1x1x4,0.05,1,0.3,1,0.7,0.7,0,4,1,0,0,1,1,20,0
+73,PFB_AeroDynamic_Wedge_1x1x4,P F B Aero Dynamic Wedge 1x1x4,0.05,1,0.3,1,0.7,0.7,,,,0,0,,1,20,
+72,PFB_AeroDynamic_Wedge_1x1x3_AerodynamicsTweaks,P F B Aero Dynamic Wedge 1x1x3,0.1,1,0.3,1,0.7,0.7,0,3,1,0,0,1,1,20,0
+71,PFB_AeroDynamic_Wedge_1x1x3,P F B Aero Dynamic Wedge 1x1x3,0.1,1,0.3,1,0.7,0.7,,,,0,0,,1,20,
+47,PFB_Aerodynamic_RoundedWedgeWide_4x2x1,P F B Aerodynamic Rounded Wedge Wide 4x2x1,0.05,1,0.3,1,0.7,0.7,,,,0,0,,1,20,
+46,PFB_Aerodynamic_RoundedWedgeCorner_2x2x1,P F B Aerodynamic Rounded Wedge Corner 2x2x1,0.05,1,0.3,1,0.7,0.7,,,,0,0,,1,20,
+51,PFB_AeroDynamic_RoundedSide_2x1x1_AerodynamicsTweaks,P F B Aero Dynamic Rounded Side 2x1x1,0.2,1,0.2,1,0.6,0.6,0,1,1,0,0,1,1,20,0
+50,PFB_AeroDynamic_RoundedSide_2x1x1,P F B Aero Dynamic Rounded Side 2x1x1,0.2,1,0.2,1,0.6,0.6,,,,0,0,,1,20,
+45,PFB_AeroDynamic_RoundedInvert_1x1x2_AerodynamicsTweaks,P F B Aero Dynamic Rounded Invert 1x1x2,0.4,0.4,1,0.5,1,0.5,-1,-1,0,0,0,1,1,20,0
+44,PFB_AeroDynamic_RoundedInvert_1x1x2,P F B Aero Dynamic Rounded Invert 1x1x2,0.4,0.4,1,0.5,1,0.5,,,,0,0,,1,20,
+40,PFB_AeroDynamic_RoundedCornerInvert_1x1x2_AerodynamicsTweaks,P F B Aero Dynamic Rounded Corner Invert 1x1x2,0.5,1,1,0.4,0.4,1,2,-2,1,0,0,1,1,20,0
+39,PFB_AeroDynamic_RoundedCornerInvert_1x1x2,P F B Aero Dynamic Rounded Corner Invert 1x1x2,0.8,1,1,0.8,0.8,0.8,,,,0,0,,1,20,
+43,PFB_AeroDynamic_RoundedCorner_2x2x2_AerodynamicsTweaks,P F B Aero Dynamic Rounded Corner 2x2x2,0.8,0.2,0.2,0.8,0.8,0.2,-1,1,-1,0,0,1,1,20,0
+42,PFB_AeroDynamic_RoundedCorner_2x2x2,P F B Aero Dynamic Rounded Corner 2x2x2,0.8,0.2,0.2,0.8,0.8,0.2,,,,0,0,,1,20,
+41,PFB_AeroDynamic_RoundedCorner_1x1x2_AerodynamicsTweaks,P F B Aero Dynamic Rounded Corner 1x1x2,0.1,0.8,0.1,0.8,0.1,0.8,2,2,1,0,0,1,1,20,0
+57,PFB_AeroDynamic_Rounded_4x2x2_AerodynamicsTweaks,P F B Aero Dynamic Rounded 4x2x2,1,0.2,0.2,1,0.6,0.6,0,1,-1,0,0,1,1,20,0
+56,PFB_AeroDynamic_Rounded_4x2x2,P F B Aero Dynamic Rounded 4x2x2,1,0.2,0.2,1,0.6,0.6,,,,0,0,,1,20,
+55,PFB_AeroDynamic_Rounded_4x1x2_AerodynamicsTweaks,P F B Aero Dynamic Rounded 4x1x2,0.2,1,0.8,1,0.7,0.7,0,2,1,0,0,1,1,20,0
+54,PFB_AeroDynamic_Rounded_4x1x2,P F B Aero Dynamic Rounded 4x1x2,0.2,1,0.8,1,0.7,0.7,,,,0,0,,1,20,
+53,PFB_AeroDynamic_Rounded_2x1x2_AerodynamicsTweaks,P F B Aero Dynamic Rounded 2x1x2,0.2,1,0.6,0.6,1,0.2,-1,0,1,0,0,1,1,20,0
+52,PFB_AeroDynamic_Rounded_2x1x2,P F B Aero Dynamic Rounded 2x1x2,0.2,1,0.6,0.6,1,0.2,,,,0,0,,1,20,
+49,PFB_AeroDynamic_Rounded_1x1x2_AerodynamicsTweaks,P F B Aero Dynamic Rounded 1x1x2,0.2,1,0.7,1,0.7,0.7,0,2,1,0,0,1,1,20,0
+48,PFB_AeroDynamic_Rounded_1x1x2,P F B Aero Dynamic Rounded 1x1x2,0.2,1,0.7,1,0.7,0.7,,,,0,0,,1,20,
+38,PFB_Aerodynamic_QuarterCone_1x1x4,P F B Aerodynamic Quarter Cone 1x1x4,0.2,1,0.2,1,0.6,0.6,,,,0,0,,1,20,
+37,PFB_Aerodynamic_QuarterCone_1x1x3,P F B Aerodynamic Quarter Cone 1x1x3,0.2,1,0.2,1,0.6,0.6,,,,0,0,,1,20,
+30,PFB_AeroDynamic_Cylinder_1x2x1_AerodynamicsTweaks,P F B Aero Dynamic Cylinder 1x2x1,0.7,0.7,1,1,0.7,0.7,0,0,0,0,0,1,1,20,0
+29,PFB_AeroDynamic_Cylinder_1x2x1,P F B Aero Dynamic Cylinder 1x2x1,0.7,0.7,1,1,0.7,0.7,,,,0,0,,1,20,
+281,PFB_AccumulatorLogicBlock,P F B Accumulator Logic Block,1,1,1,1,1,1,,,,0,0,,1,20,
+376,PFB_80sExhaust,P F B 80s Exhaust,0.8,0.8,1,1,0.8,0.8,,,,0,0,,1,20,
+6,PFB_1x2x1_Tintable_Smoke_Generator_Block,P F B 1x2x1 Tintable Smoke Generator Block,0.6,0.6,0.6,0.6,0.6,0.6,,,,0,0,,1,20,
+375,AerodynamicsTweaks_ZERO_DRAG_VANITY,Aerodynamics Tweaks Z E R O D R A G V A N I T Y,0,0,0,0,0,0,0,0,0,0,0,1,1,20,0
+32,AeroDynamic_InvertedWedgeCorner_AerodynamicsTweaks,Aero Dynamic Inverted Wedge Corner,1,0.4,0.75,1,1,0.4,-1000,2500,-1000,0,0,1,1,20,0
+36,AeroDynamic_InvertedWedgeCorner_2x2x2_AerodynamicsTweaks,Aero Dynamic Inverted Wedge Corner 2x2x2,1,0.425,0.425,1,1,0.425,-4,4,-4,0,0,1,1,20,0
+35,AeroDynamic_InvertedWedgeCorner_2x2x2,Aero Dynamic Inverted Wedge Corner 2x2x2,0.8,0.2,0.2,0.8,0.8,0.2,,,,0,0,,1,20,
+34,AeroDynamic_InvertedWedgeCorner_1x4x4,Aero Dynamic Inverted Wedge Corner 1x4x4,0.8,0.2,0.2,0.8,0.8,0.2,,,,0,0,,1,20,
+33,AeroDynamic_InvertedWedgeCorner_1x3x3,Aero Dynamic Inverted Wedge Corner 1x3x3,0.8,0.2,0.2,0.8,0.8,0.2,,,,0,0,,1,20,
+31,AeroDynamic_InvertedWedgeCorner_1x2x2,Aero Dynamic Inverted Wedge Corner 1x2x2,0.8,0.2,0.2,0.8,0.8,0.2,,,,0,0,,1,20,
+223,AeroDynamic_ConeBlocksPointy_AerodynamicsTweaks,Aero Dynamic Cone Blocks Pointy,0.5,0.5,0.1,0.8,0.5,0.5,0,0,0,0,0,1,1,20,0
+224,AeroDynamic_ConeBlocks_AerodynamicsTweaks,Aero Dynamic Cone Blocks,0.5,0.5,0.2,0.8,0.5,0.5,0,0,0,0,0,1,1,20,0
